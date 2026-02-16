@@ -1,4 +1,7 @@
-streamlit 
-numpy
+streamlit
 pandas
+numpy
 matplotlib
+scikit-learn
+statsmodels
+scipy
